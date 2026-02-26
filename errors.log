@@ -1,0 +1,34 @@
+[2026-02-26T03:55:17] INVALID INPUT: "NO ARGUMENTS"
+InsufficientArgumentsException: Insufficient arguments
+[2026-02-26T03:57:05] INVALID INPUT: "catalog.csv"
+InvalidFileNameException: File must end with .txt
+[2026-02-26T03:58:13] INVALID LINE: "Wrong Book Entry"
+MalformedBookEntryException: Book entry must have 4 fields
+[2026-02-26T03:58:13] INVALID LINE: "Bad ISBN Book:Someone:12345:2"
+InvalidISBNException: ISBN must be exactly 13 digits
+[2026-02-26T03:58:13] INVALID LINE: "Negative Copies:Author Name:9781234567890:-1"
+MalformedBookEntryException: Copies must be positive
+[2026-02-26T04:00:31] INVALID LINE: "Wrong Book Entry"
+MalformedBookEntryException: Book entry must have 4 fields
+[2026-02-26T04:00:31] INVALID LINE: "Bad ISBN Book:Someone:12345:2"
+InvalidISBNException: ISBN must be exactly 13 digits
+[2026-02-26T04:00:31] INVALID LINE: "Negative Copies:Author Name:9781234567890:-1"
+MalformedBookEntryException: Copies must be positive
+[2026-02-26T04:02:38] INVALID LINE: "Wrong Book Entry"
+MalformedBookEntryException: Book entry must have 4 fields
+[2026-02-26T04:02:38] INVALID LINE: "Bad ISBN Book:Someone:12345:2"
+InvalidISBNException: ISBN must be exactly 13 digits
+[2026-02-26T04:02:38] INVALID LINE: "Negative Copies:Author Name:9781234567890:-1"
+MalformedBookEntryException: Copies must be positive
+[2026-02-26T04:04:22] INVALID LINE: "Wrong Book Entry"
+MalformedBookEntryException: Book entry must have 4 fields
+[2026-02-26T04:04:22] INVALID LINE: "Bad ISBN Book:Someone:12345:2"
+InvalidISBNException: ISBN must be exactly 13 digits
+[2026-02-26T04:04:22] INVALID LINE: "Negative Copies:Author Name:9781234567890:-1"
+MalformedBookEntryException: Copies must be positive
+[2026-02-26T04:05:23] INVALID LINE: "Wrong Book Entry"
+MalformedBookEntryException: Book entry must have 4 fields
+[2026-02-26T04:05:23] INVALID LINE: "Bad ISBN Book:Someone:12345:2"
+InvalidISBNException: ISBN must be exactly 13 digits
+[2026-02-26T04:05:23] INVALID LINE: "Negative Copies:Author Name:9781234567890:-1"
+MalformedBookEntryException: Copies must be positive
